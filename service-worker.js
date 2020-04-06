@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d829b2d1d7005a04ed392894cd0689da.js"
+  "/precache-manifest.dcc6dad122fc200195557d2f0cc03377.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "five-slice-solutions"});
